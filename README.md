@@ -5,7 +5,7 @@
 void setName(string name); \
 string getName() const; \
 void setPassword(string password); \
-string getPassword() const; \
+uint* getPassword() const; \
 void setLogin(string login); \
 string getLogin() const; \
 void setUserData(); \
